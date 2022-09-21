@@ -29,6 +29,7 @@ A list of awesome [FilamentPHP](https://github.com/filamentphp/filament) stuff.
 - [Filtering](#filtering)
 - [Logging](#logging)
 - [Fields](#fields)
+- [Analytics](#analytics)
 - [MISC](#misc)
 - [Follow](#follow)
 
@@ -62,6 +63,10 @@ A list of awesome [FilamentPHP](https://github.com/filamentphp/filament) stuff.
  - [yepsua/filament-range-field](https://github.com/yepsua/filament-range-field): Provides the missing range field for the Filament forms.
  - [yepsua/filament-rating-field](https://github.com/yepsua/filament-rating-field): Rating field for the Filament forms.
 
+## Analytics
+
+ - [bezhanSalleh/filament-google-analytics](https://github.com/bezhanSalleh/filament-google-analytics): Google Analytics integration with Filamentphp (FilamentAdmin)
+ - [danilopolani/filament-plausible-widget](https://github.com/danilopolani/filament-plausible-widget): Add a fancy Plausible statistics widget to your Filament admin dashboard.
 
 ## MISC
 
