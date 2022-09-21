@@ -62,6 +62,9 @@ A list of awesome [FilamentPHP](https://github.com/filamentphp/filament) stuff.
  - [yepsua/filament-captcha-field](https://github.com/yepsua/filament-captcha-field): Provides a captcha field for the Filament Forms
  - [yepsua/filament-range-field](https://github.com/yepsua/filament-range-field): Provides the missing range field for the Filament forms.
  - [yepsua/filament-rating-field](https://github.com/yepsua/filament-rating-field): Rating field for the Filament forms.
+ - [mohamedsabil83/filament-forms-tinyeditor](https://github.com/mohamedsabil83/filament-forms-tinyeditor): A TinyMce Editor component for filament
+ - [humaidem/filament-map-picker](https://github.com/humaidem/filament-map-picker): Filament Map Field
+ - [happytodev/filament-tailwind-color-picker](https://github.com/happytodev/filament-tailwind-color-picker): Specific Tailwindcss color picker field for Filamentphp
 
 ## Analytics
 
