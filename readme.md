@@ -32,6 +32,7 @@ A list of awesome [FilamentPHP](https://github.com/filamentphp/filament) stuff.
 - [Analytics](#analytics)
 - [MISC](#misc)
 - [Follow](#follow)
+- [Contributors](#contributors)
 
 <!-- CONTENT -->
 
