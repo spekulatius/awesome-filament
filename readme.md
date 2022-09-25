@@ -25,6 +25,7 @@ A list of awesome [FilamentPHP](https://github.com/filamentphp/filament) stuff.
 ## Contents
 
 - [Complete Sections](#complete-sections)
+- [Data Imports](#data-imports)
 - [Data Exports](#data-exports)
 - [Filtering](#filtering)
 - [Logging](#logging)
@@ -40,6 +41,10 @@ A list of awesome [FilamentPHP](https://github.com/filamentphp/filament) stuff.
 
  - [ryangjchandler/filament-feature-flags](https://github.com/ryangjchandler/filament-feature-flags): Control your Laravel feature flags through a clean Filament interface
  - [stephenjude/filament-blog](https://github.com/stephenjude/filament-blog): A faceless blog content manager with configurable richtext and markdown support for filament admin panel
+
+## Data Imports
+
+ - [konnco/filament-import](https://github.com/konnco/filament-import): why import must use a template when you can import all files dynamically?
 
 ## Data Exports
 
