@@ -38,6 +38,7 @@ A list of awesome [FilamentPHP](https://github.com/filamentphp/filament) stuff.
 
 ## Complete Sections
 
+ - [ryangjchandler/filament-feature-flags](https://github.com/ryangjchandler/filament-feature-flags): Control your Laravel feature flags through a clean Filament interface
  - [stephenjude/filament-blog](https://github.com/stephenjude/filament-blog): A faceless blog content manager with configurable richtext and markdown support for filament admin panel
 
 ## Data Exports
@@ -46,15 +47,17 @@ A list of awesome [FilamentPHP](https://github.com/filamentphp/filament) stuff.
 
 ## Filtering
 
- - [webbingbrasil/filament-advancedfilter](https://github.com/webbingbrasil/filament-advancedfilter): A collection of easy-to-use filters with clause conditions to Filament
+ - [webbingbrasil/filament-advancedfilter](https://github.com/webbingbrasil/filament-advancedfilter): A collection of easy-to-use filters with clause conditions to Filament.
 
 ## Logging
 
  - [Z3d0X/filament-logger](https://github.com/Z3d0X/filament-logger): Extensible activity logger for filament that works out-of-the-box.
+ - [saade/filament-laravel-log](https://github.com/saade/filament-laravel-log): Access laravel.log file through Filament admin panel.
 
 # UI
 
  - [awcodes/filament-quick-create](https://github.com/awcodes/filament-quick-create): Plugin for Filament Admin that adds a dropdown menu to the header to quickly create new items.
+ - [pxlrbt/filament-spotlight](https://github.com/pxlrbt/filament-spotlight): Quickly navigate your Filament pages.
 
 ## Fields
 
@@ -75,6 +78,8 @@ A list of awesome [FilamentPHP](https://github.com/filamentphp/filament) stuff.
 ## MISC
 
  - [artificertech/filament-multi-context](https://github.com/artificertech/filament-multi-context): A package for adding multiple contexts to the filament admin panel
+ - [stechstudio/filament-impersonate](https://github.com/stechstudio/filament-impersonate): Impersonate another user out of Filament
+ - [ryangjchandler/filament-profile](https://github.com/ryangjchandler/filament-profile): A simple profile management page for Filament. ✨
 
 <!-- END CONTENT -->
 
