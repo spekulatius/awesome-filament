@@ -50,6 +50,7 @@ A list of awesome [FilamentPHP](https://github.com/filamentphp/filament) stuff.
 ## Data Exports
 
  - [pxlrbt/filament-excel](https://github.com/pxlrbt/filament-excel): Excel Export for Filament Admin Resources
+ - [alperenersoy/filament-export](https://github.com/alperenersoy/filament-export): Customizable export and print functionality
 
 ## Filtering
 
