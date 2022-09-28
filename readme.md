@@ -65,6 +65,7 @@ A list of awesome [FilamentPHP](https://github.com/filamentphp/filament) stuff.
 
  - [awcodes/filament-quick-create](https://github.com/awcodes/filament-quick-create): Plugin for Filament Admin that adds a dropdown menu to the header to quickly create new items.
  - [pxlrbt/filament-spotlight](https://github.com/pxlrbt/filament-spotlight): Quickly navigate your Filament pages.
+ - [awcodes/filament-sticky-header](https://github.com/awcodes/filament-sticky-header): A plugin to make headers sticky when scrolling.
 
 ## Fields
 
