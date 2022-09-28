@@ -76,7 +76,9 @@ A list of awesome [FilamentPHP](https://github.com/filamentphp/filament) stuff.
  - [yepsua/filament-rating-field](https://github.com/yepsua/filament-rating-field): Rating field for the Filament forms.
  - [mohamedsabil83/filament-forms-tinyeditor](https://github.com/mohamedsabil83/filament-forms-tinyeditor): A TinyMce Editor component for filament
  - [humaidem/filament-map-picker](https://github.com/humaidem/filament-map-picker): Filament Map Field
+ - [yemenpoint/filament-google-map-location-picker](https://github.com/yemenpoint/filament-google-map-location-picker): A Google Maps location picker
  - [happytodev/filament-tailwind-color-picker](https://github.com/happytodev/filament-tailwind-color-picker): Specific Tailwindcss color picker field for Filamentphp
+ - [jojostx/filament-tel-input](https://github.com/jojostx/filament-tel-input): A FilamentPHP form plugin for working with phone numbers
 
 ## Analytics
 
