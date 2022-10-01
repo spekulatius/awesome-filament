@@ -85,6 +85,7 @@ A list of awesome [FilamentPHP](https://github.com/filamentphp/filament) stuff.
  - [jojostx/filament-tel-input](https://github.com/jojostx/filament-tel-input): A FilamentPHP form plugin for working with phone numbers
  - [caendesilva/filament-simple-highlight-field-plugin](https://github.com/caendesilva/filament-simple-highlight-field-plugin): Adds a simple read-only Highlight.js pseudo-field
  - [invaders-xx/filament-jsoneditor](https://github.com/invaders-xx/filament-jsoneditor): JSON Editor form input field
+ - [happytodev/filament-tailwind-color-picker](https://github.com/happytodev/filament-tailwind-color-picker): Specific Tailwindcss color picker field for Filamentphp
 
 ## Analytics
 
