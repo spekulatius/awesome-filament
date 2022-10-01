@@ -29,6 +29,7 @@ A list of awesome [FilamentPHP](https://github.com/filamentphp/filament) stuff.
 - [Data Exports](#data-exports)
 - [Filtering](#filtering)
 - [Logging](#logging)
+- [UI](#ui)
 - [Fields](#fields)
 - [Analytics](#analytics)
 - [MISC](#misc)
@@ -61,7 +62,7 @@ A list of awesome [FilamentPHP](https://github.com/filamentphp/filament) stuff.
  - [Z3d0X/filament-logger](https://github.com/Z3d0X/filament-logger): Extensible activity logger for filament that works out-of-the-box.
  - [saade/filament-laravel-log](https://github.com/saade/filament-laravel-log): Access laravel.log file through Filament admin panel.
 
-# UI
+## UI
 
  - [awcodes/filament-quick-create](https://github.com/awcodes/filament-quick-create): Plugin for Filament Admin that adds a dropdown menu to the header to quickly create new items.
  - [pxlrbt/filament-spotlight](https://github.com/pxlrbt/filament-spotlight): Quickly navigate your Filament pages.
