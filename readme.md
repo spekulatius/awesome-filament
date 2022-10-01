@@ -40,9 +40,11 @@ A list of awesome [FilamentPHP](https://github.com/filamentphp/filament) stuff.
 
 ## Complete Sections
 
+ - [ryangjchandler/filament-navigation](https://github.com/ryangjchandler/filament-navigation): Build structured navigation menus in Filament.
  - [ryangjchandler/filament-feature-flags](https://github.com/ryangjchandler/filament-feature-flags): Control your Laravel feature flags through a clean Filament interface
  - [stephenjude/filament-blog](https://github.com/stephenjude/filament-blog): A faceless blog content manager with configurable richtext and markdown support for filament admin panel
  - [invaders-xx/filament-kanban-board](https://github.com/invaders-xx/filament-kanban-board): Kanban-Board for Filament
+ - [reworck/filament-settings](https://github.com/reworck/filament-settings): Easy setting management for filament
 
 ## Data Imports
 
