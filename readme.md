@@ -91,9 +91,10 @@ A list of awesome [FilamentPHP](https://github.com/filamentphp/filament) stuff.
 
 ## MISC
 
+ - [ryangjchandler/filament-profile](https://github.com/ryangjchandler/filament-profile): A simple profile management page for Filament. ✨
  - [artificertech/filament-multi-context](https://github.com/artificertech/filament-multi-context): A package for adding multiple contexts to the filament admin panel
  - [stechstudio/filament-impersonate](https://github.com/stechstudio/filament-impersonate): Impersonate another user out of Filament
- - [ryangjchandler/filament-profile](https://github.com/ryangjchandler/filament-profile): A simple profile management page for Filament. ✨
+ - [DutchCodingCompany/filament-socialite](https://github.com/DutchCodingCompany/filament-socialite): Add OAuth login through Laravel Socialite to Filament.
 
 <!-- END CONTENT -->
 
