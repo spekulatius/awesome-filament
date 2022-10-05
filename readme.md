@@ -70,6 +70,7 @@ A list of awesome [FilamentPHP](https://github.com/filamentphp/filament) stuff.
  - [pxlrbt/filament-spotlight](https://github.com/pxlrbt/filament-spotlight): Quickly navigate your Filament pages.
  - [awcodes/filament-sticky-header](https://github.com/awcodes/filament-sticky-header): A plugin to make headers sticky when scrolling.
  - [bezhanSalleh/filament-language-switch](https://github.com/bezhanSalleh/filament-language-switch): Zero config Language Switch(Changer/Localizer) plugin for Filamentphp Admin
+ - [konnco/filament-safely-delete](https://github.com/konnco/filament-safely-delete): A delete-safety with name input to confirm.
 
 ## Fields
 
