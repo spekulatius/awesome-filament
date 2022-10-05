@@ -27,6 +27,7 @@ A list of awesome [FilamentPHP](https://github.com/filamentphp/filament) stuff.
 - [Complete Sections](#complete-sections)
 - [Data Imports](#data-imports)
 - [Data Exports](#data-exports)
+- [Integrations](#integrations)
 - [Filtering](#filtering)
 - [Logging](#logging)
 - [UI](#ui)
@@ -54,6 +55,13 @@ A list of awesome [FilamentPHP](https://github.com/filamentphp/filament) stuff.
 
  - [pxlrbt/filament-excel](https://github.com/pxlrbt/filament-excel): Excel Export for Filament Admin Resources
  - [alperenersoy/filament-export](https://github.com/alperenersoy/filament-export): Customizable export and print functionality
+
+## Integrations
+
+Integrations with popular Laravel packages:
+
+ - [Althinect/filament-spatie-roles-permissions](https://github.com/Althinect/filament-spatie-roles-permissions): Integration with [Spatie Permissions](https://github.com/spatie/laravel-permission).
+ - [bezhanSalleh/filament-shield](https://github.com/bezhanSalleh/filament-shield): The easiest and most intuitive way to add access management to your Filament Admin Resources, Pages & Widgets through `spatie/laravel-permission`]
 
 ## Filtering
 
