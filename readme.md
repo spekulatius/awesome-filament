@@ -121,6 +121,6 @@ Who else should we be following!?
 
 [Contributions of any kind welcome, just follow the guidelines](contributing.md)!
 
-### Contributors
+## Contributors
 
 [Thanks goes to these contributors](https://github.com/spekulatius/awesome-filament/graphs/contributors)!
