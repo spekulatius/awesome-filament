@@ -66,7 +66,6 @@ Integrations with popular Laravel packages:
 - [ralphjsmit/laravel-filament-seo](https://github.com/ralphjsmit/laravel-filament-seo) - A package to combine the power of Laravel SEO and Filament Admin.
 - [shuvroroy/filament-spatie-laravel-health](https://github.com/shuvroroy/filament-spatie-laravel-health) - Monitor the health of a Laravel application.
 
-
 ## Filtering
 
 - [webbingbrasil/filament-advancedfilter](https://github.com/webbingbrasil/filament-advancedfilter) - A collection of easy-to-use filters with clause conditions to Filament.
@@ -83,6 +82,7 @@ Integrations with popular Laravel packages:
 - [awcodes/filament-sticky-header](https://github.com/awcodes/filament-sticky-header) - A plugin to make headers sticky when scrolling.
 - [bezhanSalleh/filament-language-switch](https://github.com/bezhanSalleh/filament-language-switch) - Zero config Language Switch (Changer/Localizer) plugin for Filamentphp Admin.
 - [konnco/filament-safely-delete](https://github.com/konnco/filament-safely-delete) - A delete-safety with name input to confirm.
+- [saade/filament-fullcalendar](https://github.com/saade/filament-fullcalendar) - A Calendar widget for Filamant.
 
 ## Fields
 
