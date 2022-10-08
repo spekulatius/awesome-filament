@@ -64,6 +64,7 @@ Integrations with popular Laravel packages:
 - [shuvroroy/filament-spatie-laravel-backup](https://github.com/shuvroroy/filament-spatie-laravel-backup) - Create backup of a Laravel application.
 - [bezhanSalleh/filament-shield](https://github.com/bezhanSalleh/filament-shield) - The easiest and most intuitive way to add access management to your Filament Admin Resources, Pages & Widgets through `spatie/laravel-permission`.
 - [ralphjsmit/laravel-filament-seo](https://github.com/ralphjsmit/laravel-filament-seo) - A package to combine the power of Laravel SEO and Filament Admin.
+- [shuvroroy/filament-spatie-laravel-health](https://github.com/shuvroroy/filament-spatie-laravel-health) - Monitor the health of a Laravel application.
 
 
 ## Filtering
