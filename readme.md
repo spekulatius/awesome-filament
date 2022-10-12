@@ -83,6 +83,7 @@ Integrations with popular Laravel packages:
 - [bezhanSalleh/filament-language-switch](https://github.com/bezhanSalleh/filament-language-switch) - Zero config Language Switch (Changer/Localizer) plugin for Filamentphp Admin.
 - [konnco/filament-safely-delete](https://github.com/konnco/filament-safely-delete) - A delete-safety with name input to confirm.
 - [saade/filament-fullcalendar](https://github.com/saade/filament-fullcalendar) - A Calendar widget for Filamant.
+- [webbingbrasil/filament-copyactions](https://github.com/webbingbrasil/filament-copyactions) - A easy-to-use copy actions for Admin Pages, Tables and Form Fields.
 
 ## Fields
 
