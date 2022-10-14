@@ -84,6 +84,7 @@ Integrations with popular Laravel packages:
 - [konnco/filament-safely-delete](https://github.com/konnco/filament-safely-delete) - A delete-safety with name input to confirm.
 - [saade/filament-fullcalendar](https://github.com/saade/filament-fullcalendar) - A Calendar widget for Filamant.
 - [webbingbrasil/filament-copyactions](https://github.com/webbingbrasil/filament-copyactions) - A easy-to-use copy actions for Admin Pages, Tables and Form Fields.
+- [MarJose123/filament-lockscreen](https://github.com/MarJose123/filament-lockscreen) -  A filament plugin that will allow to lock your app screen and be able to continue working after login.
 
 ## Fields
 
