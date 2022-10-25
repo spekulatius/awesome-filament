@@ -100,6 +100,7 @@ Integrations with popular Laravel packages:
 - [jojostx/filament-tel-input](https://github.com/jojostx/filament-tel-input) - A FilamentPHP form plugin for working with phone numbers.
 - [caendesilva/filament-simple-highlight-field-plugin](https://github.com/caendesilva/filament-simple-highlight-field-plugin) - Adds a simple read-only Highlight.js pseudo-field.
 - [invaders-xx/filament-jsoneditor](https://github.com/invaders-xx/filament-jsoneditor) - JSON Editor form input field.
+- [LukasFreyCZ/filament-icon-picker](https://github.com/LukasFreyCZ/filament-icon-picker) - An icon picker field for Filament.
 
 ## Analytics
 
