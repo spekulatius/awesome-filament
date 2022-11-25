@@ -72,7 +72,7 @@ Integrations with popular Laravel packages:
 
 ## Logging
 
-- [Z3d0X/filament-logger](https://github.com/Z3d0X/filament-logger) - Extensible activity logger for filament that works out-of-the-box.
+- [Z3d0X/filament-logger](https://github.com/Z3d0X/filament-logger) - Extensible activity logger for filament that works out-of-the-box. Uses [spatie/laravel-activitylog](https://github.com/spatie/laravel-activitylog) under the hood.
 - [saade/filament-laravel-log](https://github.com/saade/filament-laravel-log) - Access laravel.log file through Filament admin panel.
 
 ## UI
