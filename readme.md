@@ -113,6 +113,7 @@ Integrations with popular Laravel packages:
 - [ryangjchandler/filament-profile](https://github.com/ryangjchandler/filament-profile) - A simple profile management page for Filament.
 - [artificertech/filament-multi-context](https://github.com/artificertech/filament-multi-context) - A package for adding multiple contexts to the filament admin panel.
 - [stechstudio/filament-impersonate](https://github.com/stechstudio/filament-impersonate) - Impersonate another user out of Filament.
+- [xlite-dev/filament-impersonate](https://github.com/xlite-dev/filament-impersonate) - Filament Impersonate is a plugin that allows you to authenticate as your users.
 - [DutchCodingCompany/filament-socialite](https://github.com/DutchCodingCompany/filament-socialite) - Add OAuth login through Laravel Socialite to Filament.
 
 <!-- END CONTENT -->
