@@ -46,6 +46,7 @@ A list of awesome [FilamentPHP](https://github.com/filamentphp/filament) stuff.
 - [stephenjude/filament-blog](https://github.com/stephenjude/filament-blog) - A faceless blog content manager with configurable richtext and markdown support for filament admin panel.
 - [invaders-xx/filament-kanban-board](https://github.com/invaders-xx/filament-kanban-board) - Kanban-Board for Filament.
 - [reworck/filament-settings](https://github.com/reworck/filament-settings) - Easy setting management for filament.
+- [Z3d0X/filament-fabricator](https://github.com/Z3d0X/filament-fabricator) - Block-Based Page Builder Skeleton for your Filament Apps.
 
 ## Data Imports
 
