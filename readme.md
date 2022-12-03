@@ -25,9 +25,9 @@ A list of awesome [FilamentPHP](https://github.com/filamentphp/filament) stuff.
 ## Contents
 
 - [Complete Sections](#complete-sections)
+- [Integrations](#integrations)
 - [Data Imports](#data-imports)
 - [Data Exports](#data-exports)
-- [Integrations](#integrations)
 - [Filtering](#filtering)
 - [Logging](#logging)
 - [UI](#ui)
@@ -41,21 +41,14 @@ A list of awesome [FilamentPHP](https://github.com/filamentphp/filament) stuff.
 
 ## Complete Sections
 
+Complete sections to cover functionality such as a CMS, blog, etc. 
+
 - [ryangjchandler/filament-navigation](https://github.com/ryangjchandler/filament-navigation) - Build structured navigation menus in Filament.
 - [ryangjchandler/filament-feature-flags](https://github.com/ryangjchandler/filament-feature-flags) - Control your Laravel feature flags through a clean Filament interface.
 - [stephenjude/filament-blog](https://github.com/stephenjude/filament-blog) - A faceless blog content manager with configurable richtext and markdown support for filament admin panel.
 - [invaders-xx/filament-kanban-board](https://github.com/invaders-xx/filament-kanban-board) - Kanban-Board for Filament.
 - [reworck/filament-settings](https://github.com/reworck/filament-settings) - Easy setting management for filament.
 - [Z3d0X/filament-fabricator](https://github.com/Z3d0X/filament-fabricator) - Block-Based Page Builder Skeleton for your Filament Apps.
-
-## Data Imports
-
-- [konnco/filament-import](https://github.com/konnco/filament-import) - Why import must use a template when you can import all files dynamically?
-
-## Data Exports
-
-- [pxlrbt/filament-excel](https://github.com/pxlrbt/filament-excel) - Excel Export for Filament Admin Resources.
-- [alperenersoy/filament-export](https://github.com/alperenersoy/filament-export) - Customizable export and print functionality.
 
 ## Integrations
 
@@ -66,6 +59,15 @@ Integrations with popular Laravel packages:
 - [bezhanSalleh/filament-shield](https://github.com/bezhanSalleh/filament-shield) - The easiest and most intuitive way to add access management to your Filament Admin Resources, Pages & Widgets through `spatie/laravel-permission`.
 - [ralphjsmit/laravel-filament-seo](https://github.com/ralphjsmit/laravel-filament-seo) - A package to combine the power of Laravel SEO and Filament Admin.
 - [shuvroroy/filament-spatie-laravel-health](https://github.com/shuvroroy/filament-spatie-laravel-health) - Monitor the health of a Laravel application.
+
+## Data Imports
+
+- [konnco/filament-import](https://github.com/konnco/filament-import) - Why import must use a template when you can import all files dynamically?
+
+## Data Exports
+
+- [pxlrbt/filament-excel](https://github.com/pxlrbt/filament-excel) - Excel Export for Filament Admin Resources.
+- [alperenersoy/filament-export](https://github.com/alperenersoy/filament-export) - Customizable export and print functionality.
 
 ## Filtering
 
