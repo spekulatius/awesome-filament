@@ -106,6 +106,7 @@ Integrations with popular Laravel packages:
 - [invaders-xx/filament-jsoneditor](https://github.com/invaders-xx/filament-jsoneditor) - JSON Editor form input field.
 - [LukasFreyCZ/filament-icon-picker](https://github.com/LukasFreyCZ/filament-icon-picker) - An icon picker field for Filament.
 - [nettantra/filament-slider-input-field](https://github.com/nettantra/filament-slider-input-field) - A Range Slider Field for Filament.
+- [camya/filament-title-with-slug](https://github.com/camya/filament-title-with-slug) - An advanced "Title With Slug"-input field.
 
 ## Analytics
 
