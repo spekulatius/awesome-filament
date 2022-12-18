@@ -56,10 +56,10 @@ Complete sections to cover functionality such as a CMS, blog, etc.
 Integrations with popular Laravel packages:
 
 - [Althinect/filament-spatie-roles-permissions](https://github.com/Althinect/filament-spatie-roles-permissions) - Integration with [Spatie Permissions](https://github.com/spatie/laravel-permission).
-- [shuvroroy/filament-spatie-laravel-backup](https://github.com/shuvroroy/filament-spatie-laravel-backup) - Create backup of a Laravel application.
+- [shuvroroy/filament-spatie-laravel-backup](https://github.com/shuvroroy/filament-spatie-laravel-backup) - Integrate with [spatie/laravel-backup](https://github.com/spatie/laravel-backup).
 - [bezhanSalleh/filament-shield](https://github.com/bezhanSalleh/filament-shield) - The easiest and most intuitive way to add access management to your Filament Admin Resources, Pages & Widgets through `spatie/laravel-permission`.
 - [ralphjsmit/laravel-filament-seo](https://github.com/ralphjsmit/laravel-filament-seo) - A package to combine the power of Laravel SEO and Filament Admin.
-- [shuvroroy/filament-spatie-laravel-health](https://github.com/shuvroroy/filament-spatie-laravel-health) - Monitor the health of a Laravel application.
+- [shuvroroy/filament-spatie-laravel-health](https://github.com/shuvroroy/filament-spatie-laravel-health) - Monitor the health of a Laravel application using [spatie/laravel-health](https://github.com/spatie/laravel-health).
 
 ## Data Imports
 
