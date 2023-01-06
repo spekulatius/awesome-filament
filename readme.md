@@ -32,6 +32,7 @@ A list of awesome [FilamentPHP](https://github.com/filamentphp/filament) stuff.
 - [Logging](#logging)
 - [UI](#ui)
 - [Fields](#fields)
+- [Charts](#charts)
 - [Analytics](#analytics)
 - [MISC](#misc)
 - [Follow](#follow)
@@ -107,6 +108,10 @@ Integrations with popular Laravel packages:
 - [LukasFreyCZ/filament-icon-picker](https://github.com/LukasFreyCZ/filament-icon-picker) - An icon picker field for Filament.
 - [nettantra/filament-slider-input-field](https://github.com/nettantra/filament-slider-input-field) - A Range Slider Field for Filament.
 - [camya/filament-title-with-slug](https://github.com/camya/filament-title-with-slug) - An advanced "Title With Slug"-input field.
+
+## Charts
+
+- [leandrocfe/filament-apex-charts](https://github.com/leandrocfe/filament-apex-charts) - Apex Charts integration for Filament PHP. 
 
 ## Analytics
 
