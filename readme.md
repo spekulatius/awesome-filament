@@ -110,6 +110,7 @@ Integrations with popular Laravel packages or core features:
 - [LukasFreyCZ/filament-icon-picker](https://github.com/LukasFreyCZ/filament-icon-picker) - An icon picker field for Filament.
 - [nettantra/filament-slider-input-field](https://github.com/nettantra/filament-slider-input-field) - A Range Slider Field for Filament.
 - [camya/filament-title-with-slug](https://github.com/camya/filament-title-with-slug) - An advanced "Title With Slug"-input field.
+- [savannabits/filament-signature-pad](https://github.com/savannabits/filament-signature-pad) - A signature pad field. 
 
 ## Charts
 
