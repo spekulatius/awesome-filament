@@ -35,7 +35,6 @@ A list of awesome [FilamentPHP](https://github.com/filamentphp/filament) stuff.
 - [Charts](#charts)
 - [Analytics](#analytics)
 - [MISC](#misc)
-- [Follow](#follow)
 - [Contributors](#contributors)
 
 <!-- CONTENT -->
@@ -131,12 +130,6 @@ Integrations with popular Laravel packages or core features:
 - [DutchCodingCompany/filament-socialite](https://github.com/DutchCodingCompany/filament-socialite) - Add OAuth login through Laravel Socialite to Filament.
 
 <!-- END CONTENT -->
-
-## Follow
-
-<!-- list people worth following on social sites (Twitter, LinkedIn, GitHub, YouTube etc.) -->
-
-Who else should we be following!?
 
 ## Contributing
 
