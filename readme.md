@@ -50,7 +50,8 @@ Complete sections to cover functionality such as a CMS, blog, etc.
 - [reworck/filament-settings](https://github.com/reworck/filament-settings) - Easy setting management for filament.
 - [Z3d0X/filament-fabricator](https://github.com/Z3d0X/filament-fabricator) - Block-Based Page Builder Skeleton for your Filament Apps.
 - [statikbe/laravel-filament-chained-translation-manager](https://github.com/statikbe/laravel-filament-chained-translation-manager) - A translation manager tool using [Laravel Chained Translator](https://github.com/statikbe/laravel-chained-translator).
-- [buildix/timex](https://github.com/buildix/timex) -  Calendar plugin for Filament.
+- [buildix/timex](https://github.com/buildix/timex) - Calendar plugin for Filament.
+- [MarJose123/filament-webhook-server](https://github.com/MarJose123/filament-webhook-server) - Send webhooks from Filament apps.
 
 ## Integrations
 
