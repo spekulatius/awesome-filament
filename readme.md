@@ -112,6 +112,7 @@ Integrations with popular Laravel packages or core features:
 - [camya/filament-title-with-slug](https://github.com/camya/filament-title-with-slug) - An advanced "Title With Slug"-input field.
 - [savannabits/filament-signature-pad](https://github.com/savannabits/filament-signature-pad) - A signature pad field.
 - [creagia/filament-code-field](https://github.com/creagia/filament-code-field) - A CodeMirror powered code field for the Filamentphp admin panel and form builder.
+- [lucasgiovanny/filament-multiselect-two-sides](https://github.com/lucasgiovanny/filament-multiselect-two-sides) - A multiselect field with two sides. 
 
 ## Charts
 
