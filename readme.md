@@ -52,6 +52,7 @@ Complete sections to cover functionality such as a CMS, blog, etc.
 - [statikbe/laravel-filament-chained-translation-manager](https://github.com/statikbe/laravel-filament-chained-translation-manager) - A translation manager tool using [Laravel Chained Translator](https://github.com/statikbe/laravel-chained-translator).
 - [buildix/timex](https://github.com/buildix/timex) - Calendar plugin for Filament.
 - [MarJose123/filament-webhook-server](https://github.com/MarJose123/filament-webhook-server) - Send webhooks from Filament apps.
+- [stephenjude/filament-debugger](https://github.com/stephenjude/filament-debugger) - Easily add Laravel Telescope and Horizon to Filament. 
 
 ## Integrations
 
