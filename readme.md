@@ -41,7 +41,7 @@ A list of awesome [FilamentPHP](https://github.com/filamentphp/filament) stuff.
 
 ## Complete Sections
 
-Complete sections to cover functionality such as a CMS, blog, etc. 
+Complete sections to cover functionality such as a CMS, blog, etc.
 
 - [ryangjchandler/filament-navigation](https://github.com/ryangjchandler/filament-navigation) - Build structured navigation menus in Filament.
 - [ryangjchandler/filament-feature-flags](https://github.com/ryangjchandler/filament-feature-flags) - Control your Laravel feature flags through a clean Filament interface.
@@ -115,11 +115,11 @@ Integrations with popular Laravel packages or core features:
 - [camya/filament-title-with-slug](https://github.com/camya/filament-title-with-slug) - An advanced "Title With Slug"-input field.
 - [savannabits/filament-signature-pad](https://github.com/savannabits/filament-signature-pad) - A signature pad field.
 - [creagia/filament-code-field](https://github.com/creagia/filament-code-field) - A CodeMirror powered code field for the Filamentphp admin panel and form builder.
-- [lucasgiovanny/filament-multiselect-two-sides](https://github.com/lucasgiovanny/filament-multiselect-two-sides) - A multiselect field with two sides. 
+- [lucasgiovanny/filament-multiselect-two-sides](https://github.com/lucasgiovanny/filament-multiselect-two-sides) - A multiselect field with two sides.
 
 ## Charts
 
-- [leandrocfe/filament-apex-charts](https://github.com/leandrocfe/filament-apex-charts) - Apex Charts integration for Filament PHP. 
+- [leandrocfe/filament-apex-charts](https://github.com/leandrocfe/filament-apex-charts) - Apex Charts integration for Filament PHP.
 
 ## Analytics
 
