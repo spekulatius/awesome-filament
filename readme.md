@@ -95,6 +95,7 @@ Integrations with popular Laravel packages or core features:
 - [webbingbrasil/filament-copyactions](https://github.com/webbingbrasil/filament-copyactions) - A easy-to-use copy actions for Admin Pages, Tables and Form Fields.
 - [MarJose123/filament-lockscreen](https://github.com/MarJose123/filament-lockscreen) - A filament plugin that will allow to lock your app screen and be able to continue working after login.
 - [awcodes/filament-badgeable-column](https://github.com/awcodes/filament-badgeable-column) - allows to append badges to Filament columns.
+- [cheesegrits/filament-google-maps](https://github.com/cheesegrits/filament-google-maps) - A collection of Fields and Widgets to work with Google Maps.
 
 ## Fields
 
