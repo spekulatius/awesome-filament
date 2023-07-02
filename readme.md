@@ -12,8 +12,8 @@ A list of awesome [FilamentPHP](https://github.com/filamentphp/filament) stuff.
 
 <!-- image -->
 
-<a href="" target="_blank" rel="noopener noreferrer">
-  <img src="" />
+<a href="https://releasecandidate.dev" target="_blank" rel="noopener noreferrer">
+  <img src="https://github.com/spekulatius/awesome-filament/assets/8433587/7d8519c8-20cb-4c17-bedf-bc3596a363e3" style="height: 200px;">
 </a>
 
 <!-- description -->
