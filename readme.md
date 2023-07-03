@@ -12,7 +12,7 @@ A list of awesome [FilamentPHP](https://github.com/filamentphp/filament) stuff.
 
 <!-- image -->
 
-<a href="https://releasecandidate.dev" target="_blank" rel="noopener noreferrer">
+<a href="https://github.com/spekulatius/awesome-filament" target="_blank" rel="noopener noreferrer">
   <img src="https://github.com/spekulatius/awesome-filament/assets/8433587/7d8519c8-20cb-4c17-bedf-bc3596a363e3" style="height: 200px;">
 </a>
 
@@ -53,7 +53,7 @@ Complete sections to cover functionality such as a CMS, blog, etc.
 - [buildix/timex](https://github.com/buildix/timex) - Calendar plugin for Filament.
 - [MarJose123/filament-webhook-server](https://github.com/MarJose123/filament-webhook-server) - Send webhooks from Filament apps.
 - [stephenjude/filament-debugger](https://github.com/stephenjude/filament-debugger) - Easily add Laravel Telescope and Horizon to Filament.
-- [awcodes/overlook](https://github.com/awcodes/overlook) - adds an app overview widget to your admin panel.
+- [awcodes/overlook](https://github.com/awcodes/overlook) - Adds an app overview widget to your admin panel.
 
 ## Integrations
 
@@ -94,7 +94,7 @@ Integrations with popular Laravel packages or core features:
 - [saade/filament-fullcalendar](https://github.com/saade/filament-fullcalendar) - A Calendar widget for Filamant.
 - [webbingbrasil/filament-copyactions](https://github.com/webbingbrasil/filament-copyactions) - A easy-to-use copy actions for Admin Pages, Tables and Form Fields.
 - [MarJose123/filament-lockscreen](https://github.com/MarJose123/filament-lockscreen) - A filament plugin that will allow to lock your app screen and be able to continue working after login.
-- [awcodes/filament-badgeable-column](https://github.com/awcodes/filament-badgeable-column) - allows to append badges to Filament columns.
+- [awcodes/filament-badgeable-column](https://github.com/awcodes/filament-badgeable-column) - Allows to append badges to Filament columns.
 - [cheesegrits/filament-google-maps](https://github.com/cheesegrits/filament-google-maps) - A collection of Fields and Widgets to work with Google Maps.
 
 ## Fields
