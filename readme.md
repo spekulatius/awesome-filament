@@ -96,6 +96,7 @@ Integrations with popular Laravel packages or core features:
 - [MarJose123/filament-lockscreen](https://github.com/MarJose123/filament-lockscreen) - A filament plugin that will allow to lock your app screen and be able to continue working after login.
 - [awcodes/filament-badgeable-column](https://github.com/awcodes/filament-badgeable-column) - Allows to append badges to Filament columns.
 - [cheesegrits/filament-google-maps](https://github.com/cheesegrits/filament-google-maps) - A collection of Fields and Widgets to work with Google Maps.
+- [aymanalhattami/filament-page-with-sidebar](https://github.com/aymanalhattami/filament-page-with-sidebar) - A sidebar for Filament Pages supporting RTL and LTR.
 
 ## Fields
 
