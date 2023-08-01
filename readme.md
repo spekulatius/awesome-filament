@@ -98,6 +98,7 @@ Integrations with popular Laravel packages or core features:
 - [awcodes/filament-badgeable-column](https://github.com/awcodes/filament-badgeable-column) - Allows to append badges to Filament columns.
 - [cheesegrits/filament-google-maps](https://github.com/cheesegrits/filament-google-maps) - A collection of Fields and Widgets to work with Google Maps.
 - [aymanalhattami/filament-page-with-sidebar](https://github.com/aymanalhattami/filament-page-with-sidebar) - A sidebar for Filament Pages supporting RTL and LTR.
+- [pxlrbt/filament-environment-indicator](https://github.com/pxlrbt/filament-environment-indicator) - Never confuse your tabs with different Filament environments again. 
 
 ## Fields
 
