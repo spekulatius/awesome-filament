@@ -55,6 +55,7 @@ Complete sections to cover functionality such as a CMS, blog, etc.
 - [stephenjude/filament-debugger](https://github.com/stephenjude/filament-debugger) - Easily add Laravel Telescope and Horizon to Filament.
 - [awcodes/overlook](https://github.com/awcodes/overlook) - Adds an app overview widget to your admin panel.
 - [andrewdwallo/filament-companies](https://github.com/andrewdwallo/filament-companies) - A complete authentication system kit based on companies built for Filament with Fortify, Socialite and more.
+- [siubie/kaido-kit](https://github.com/siubie/kaido-kit) - A powerful and opinionated FilamentPHP starter kit designed to accelerate your admin panel development. Kaido Kit provides a robust foundation with pre-configured plugins, configuration and best practices for building feature-rich admin interfaces.
 
 ## Integrations
 
