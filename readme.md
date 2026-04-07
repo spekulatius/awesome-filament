@@ -70,7 +70,7 @@ Integrations with popular Laravel packages or core features:
 ## Data Imports
 
 - [konnco/filament-import](https://github.com/konnco/filament-import) - Why import must use a template when you can import all files dynamically?
-- [Tapix](https://tapix.dev) - A 4-step CSV import wizard with smart column mapping, inline validation, relationship linking, and queue-powered processing. First-class Filament integration via TapixPlugin.
+- [Tapix](https://tapix.dev) - A 4-step CSV import wizard with smart column mapping, inline validation, relationship linking, and queue-powered processing. First-class Filament integration via `TapixPlugin`.
 
 ## Data Exports
 
