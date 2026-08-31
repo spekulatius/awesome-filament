@@ -43,7 +43,6 @@ A list of awesome [FilamentPHP](https://github.com/filamentphp/filament) stuff.
 
 Complete sections to cover functionality such as a CMS, blog, etc.
 
-- [ryangjchandler/filament-navigation](https://github.com/ryangjchandler/filament-navigation) - Build structured navigation menus in Filament.
 - [stephenjude/filament-blog](https://github.com/stephenjude/filament-blog) - A faceless blog content manager with configurable richtext and markdown support for filament admin panel.
 - [invaders-xx/filament-kanban-board](https://github.com/invaders-xx/filament-kanban-board) - Kanban-Board for Filament.
 - [reworck/filament-settings](https://github.com/reworck/filament-settings) - Easy setting management for filament.
@@ -80,7 +79,6 @@ Integrations with popular Laravel packages or core features:
 
 ## Logging
 
-- [Z3d0X/filament-logger](https://github.com/Z3d0X/filament-logger) - Extensible activity logger for filament that works out-of-the-box. Uses [spatie/laravel-activitylog](https://github.com/spatie/laravel-activitylog) under the hood.
 - [saade/filament-laravel-log](https://github.com/saade/filament-laravel-log) - Access laravel.log file through Filament admin panel.
 
 ## UI
@@ -105,7 +103,6 @@ Integrations with popular Laravel packages or core features:
 - [yepsua/filament-captcha-field](https://github.com/yepsua/filament-captcha-field) - Provides a captcha field for the Filament Forms.
 - [yepsua/filament-range-field](https://github.com/yepsua/filament-range-field) - Provides the missing range field for the Filament forms.
 - [yepsua/filament-rating-field](https://github.com/yepsua/filament-rating-field) - Rating field for the Filament forms.
-- [mohamedsabil83/filament-forms-tinyeditor](https://github.com/mohamedsabil83/filament-forms-tinyeditor) - A TinyMce Editor component for filament.
 - [humaidem/filament-map-picker](https://github.com/humaidem/filament-map-picker) - Filament Map Field.
 - [yemenpoint/filament-google-map-location-picker](https://github.com/yemenpoint/filament-google-map-location-picker) - A Google Maps location picker.
 - [happytodev/filament-tailwind-color-picker](https://github.com/happytodev/filament-tailwind-color-picker) - Specific Tailwindcss color picker field for Filamentphp.
@@ -130,7 +127,6 @@ Integrations with popular Laravel packages or core features:
 
 ## MISC
 
-- [artificertech/filament-multi-context](https://github.com/artificertech/filament-multi-context) - A package for adding multiple contexts to the filament admin panel.
 - [stechstudio/filament-impersonate](https://github.com/stechstudio/filament-impersonate) - Impersonate another user out of Filament.
 - [xlite-dev/filament-impersonate](https://github.com/xlite-dev/filament-impersonate) - Filament Impersonate is a plugin that allows you to authenticate as your users.
 - [DutchCodingCompany/filament-socialite](https://github.com/DutchCodingCompany/filament-socialite) - Add OAuth login through Laravel Socialite to Filament.
