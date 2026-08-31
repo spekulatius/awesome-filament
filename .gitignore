@@ -4,3 +4,4 @@
 .directory
 node_modules/
 *.log
+CLAUDE.md
