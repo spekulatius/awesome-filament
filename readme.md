@@ -44,7 +44,6 @@ A list of awesome [FilamentPHP](https://github.com/filamentphp/filament) stuff.
 Complete sections to cover functionality such as a CMS, blog, etc.
 
 - [ryangjchandler/filament-navigation](https://github.com/ryangjchandler/filament-navigation) - Build structured navigation menus in Filament.
-- [ryangjchandler/filament-feature-flags](https://github.com/ryangjchandler/filament-feature-flags) - Control your Laravel feature flags through a clean Filament interface.
 - [stephenjude/filament-blog](https://github.com/stephenjude/filament-blog) - A faceless blog content manager with configurable richtext and markdown support for filament admin panel.
 - [invaders-xx/filament-kanban-board](https://github.com/invaders-xx/filament-kanban-board) - Kanban-Board for Filament.
 - [reworck/filament-settings](https://github.com/reworck/filament-settings) - Easy setting management for filament.
@@ -132,7 +131,6 @@ Integrations with popular Laravel packages or core features:
 
 ## MISC
 
-- [ryangjchandler/filament-profile](https://github.com/ryangjchandler/filament-profile) - A simple profile management page for Filament.
 - [artificertech/filament-multi-context](https://github.com/artificertech/filament-multi-context) - A package for adding multiple contexts to the filament admin panel.
 - [stechstudio/filament-impersonate](https://github.com/stechstudio/filament-impersonate) - Impersonate another user out of Filament.
 - [xlite-dev/filament-impersonate](https://github.com/xlite-dev/filament-impersonate) - Filament Impersonate is a plugin that allows you to authenticate as your users.
