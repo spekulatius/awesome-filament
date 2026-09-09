@@ -63,6 +63,8 @@ Integrations with popular Laravel packages or core features:
 - [ralphjsmit/laravel-filament-seo](https://github.com/ralphjsmit/laravel-filament-seo) - A package to combine the power of Laravel SEO and Filament Admin.
 - [shuvroroy/filament-spatie-laravel-health](https://github.com/shuvroroy/filament-spatie-laravel-health) - Monitor the health of a Laravel application using [`spatie/laravel-health`](https://github.com/spatie/laravel-health).
 - [ramnzys/filament-email-log](https://github.com/ramnzys/filament-email-log) - A Filament resource to view all Laravel sent emails.
+- [RickDBCN/filament-email](https://github.com/RickDBCN/filament-email) - Log emails in your Filament project.
+- [marcogermani87/filament-matomo](https://github.com/marcogermani87/filament-matomo) - Easy cookie consent integrations for Filament
 
 ## Data Imports
 
@@ -130,6 +132,7 @@ Integrations with popular Laravel packages or core features:
 - [stechstudio/filament-impersonate](https://github.com/stechstudio/filament-impersonate) - Impersonate another user out of Filament.
 - [xlite-dev/filament-impersonate](https://github.com/xlite-dev/filament-impersonate) - Filament Impersonate is a plugin that allows you to authenticate as your users.
 - [DutchCodingCompany/filament-socialite](https://github.com/DutchCodingCompany/filament-socialite) - Add OAuth login through Laravel Socialite to Filament.
+- [marcogermani87/filament-matomo](https://github.com/marcogermani87/filament-matomo) - Easy Matomo tracker integration for Filament
 
 <!-- END CONTENT -->
 
