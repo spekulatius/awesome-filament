@@ -34,6 +34,7 @@ A list of awesome [FilamentPHP](https://github.com/filamentphp/filament) stuff.
 - [Fields](#fields)
 - [Charts](#charts)
 - [Analytics](#analytics)
+- [Server](#server)- 
 - [MISC](#misc)
 - [Contributors](#contributors)
 
@@ -124,6 +125,10 @@ Integrations with popular Laravel packages or core features:
 
 - [bezhanSalleh/filament-google-analytics](https://github.com/bezhanSalleh/filament-google-analytics) - Google Analytics integration with the Filament Admin.
 - [danilopolani/filament-plausible-widget](https://github.com/danilopolani/filament-plausible-widget) - Add a fancy Plausible statistics widget to your Filament admin dashboard.
+
+## Server
+
+- [avansaber/sitekit](https://github.com/avansaber/sitekit) - Server management platform for deploying web applications. Provision servers, manage databases, issue SSL certificates, and deploy via Git. Alternative to Laravel Forge, Runcloud etc.
 
 ## MISC
 
