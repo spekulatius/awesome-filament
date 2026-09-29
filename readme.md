@@ -130,6 +130,7 @@ Integrations with popular Laravel packages or core features:
 - [stechstudio/filament-impersonate](https://github.com/stechstudio/filament-impersonate) - Impersonate another user out of Filament.
 - [xlite-dev/filament-impersonate](https://github.com/xlite-dev/filament-impersonate) - Filament Impersonate is a plugin that allows you to authenticate as your users.
 - [DutchCodingCompany/filament-socialite](https://github.com/DutchCodingCompany/filament-socialite) - Add OAuth login through Laravel Socialite to Filament.
+- [Fixzy SysMaker](https://github.com/mohdhafizi83/fixzy-sysmaker) - Visual database designer that generates complete Laravel + Filament admin systems, including an MCP server for AI agents.
 
 <!-- END CONTENT -->
 
