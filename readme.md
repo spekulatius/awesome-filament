@@ -53,6 +53,9 @@ Complete sections to cover functionality such as a CMS, blog, etc.
 - [stephenjude/filament-debugger](https://github.com/stephenjude/filament-debugger) - Easily add Laravel Telescope and Horizon to Filament.
 - [awcodes/overlook](https://github.com/awcodes/overlook) - Adds an app overview widget to your admin panel.
 - [andrewdwallo/filament-companies](https://github.com/andrewdwallo/filament-companies) - A complete authentication system kit based on companies built for Filament with Fortify, Socialite and more.
+- [tomatophp/filament-cms](https://github.com/tomatophp/filament-cms) - Full CMS with a page builder and theme manager for Filament.
+- [tomatophp/filament-invoices](https://github.com/tomatophp/filament-invoices) - Generate and manage invoices in Filament.
+- [tomatophp/filament-users](https://github.com/tomatophp/filament-users) - Customizable user resource with Filament Shield and impersonation integration.
 
 ## Integrations
 
@@ -63,6 +66,7 @@ Integrations with popular Laravel packages or core features:
 - [ralphjsmit/laravel-filament-seo](https://github.com/ralphjsmit/laravel-filament-seo) - A package to combine the power of Laravel SEO and Filament Admin.
 - [shuvroroy/filament-spatie-laravel-health](https://github.com/shuvroroy/filament-spatie-laravel-health) - Monitor the health of a Laravel application using [`spatie/laravel-health`](https://github.com/spatie/laravel-health).
 - [ramnzys/filament-email-log](https://github.com/ramnzys/filament-email-log) - A Filament resource to view all Laravel sent emails.
+- [tomatophp/filament-media-manager](https://github.com/tomatophp/filament-media-manager) - Manage media files with a GUI on top of `spatie/laravel-medialibrary`.
 
 ## Data Imports
 
