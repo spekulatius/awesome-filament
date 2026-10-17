@@ -115,6 +115,7 @@ Integrations with popular Laravel packages or core features:
 - [savannabits/filament-signature-pad](https://github.com/savannabits/filament-signature-pad) - A signature pad field.
 - [creagia/filament-code-field](https://github.com/creagia/filament-code-field) - A CodeMirror powered code field for the Filamentphp admin panel and form builder.
 - [lucasgiovanny/filament-multiselect-two-sides](https://github.com/lucasgiovanny/filament-multiselect-two-sides) - A multiselect field with two sides.
+- [janczakb/filament-flex-fields](https://github.com/janczakb/filament-flex-fields) - A comprehensive suite of 65+ reactive form fields, pickers, and media components for Filament.
 
 ## Charts
 
