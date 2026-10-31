@@ -67,6 +67,7 @@ Integrations with popular Laravel packages or core features:
 ## Data Imports
 
 - [konnco/filament-import](https://github.com/konnco/filament-import) - Why import must use a template when you can import all files dynamically?
+- [maxkhim/filament-dedupler-uploader](https://github.com/maxkhim/filament-dedupler-uploader) - DRY for your Laravel Storage at Filament.
 
 ## Data Exports
 
